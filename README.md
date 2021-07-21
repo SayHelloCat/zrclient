@@ -23,3 +23,6 @@ IDE: Visual Studio 2019
 #### 界面截图
 
 <img src="https://gitee.com/SayHelloCat/zrclient/raw/master/Image/Login.jpg" height="400"/><br/> 
+<img src="https://gitee.com/SayHelloCat/zrclient/raw/master/Image/Main.jpg" height="400"/><br/> 
+<img src="https://gitee.com/SayHelloCat/zrclient/raw/master/Image/Menu.jpg" height="400"/><br/> 
+<img src="https://gitee.com/SayHelloCat/zrclient/raw/master/Image/User.jpg" height="400"/><br/> 
